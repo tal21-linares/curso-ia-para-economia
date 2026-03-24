@@ -1,0 +1,15 @@
+{
+  "pais": "Colombia",
+  "datos_poblacionales": [
+    {"año": 2014, "poblacion_total": 49296000, "pib_per_capita": 5856},
+    {"año": 2015, "poblacion_total": 49598000, "pib_per_capita": 5995},
+    {"año": 2016, "poblacion_total": 49738700, "pib_per_capita": 6058},
+    {"año": 2017, "poblacion_total": 50157000, "pib_per_capita": 6126},
+    {"año": 2018, "poblacion_total": 50482900, "pib_per_capita": 6293},
+    {"año": 2019, "poblacion_total": 50921000, "pib_per_capita": 6335},
+    {"año": 2020, "poblacion_total": 51034000, "pib_per_capita": 6498},
+    {"año": 2021, "poblacion_total": 51230000, "pib_per_capita": 6550},
+    {"año": 2022, "poblacion_total": 51520000, "pib_per_capita": 6630},
+    {"año": 2023, "poblacion_total": 52085000, "pib_per_capita": 6710}
+  ]
+}
